@@ -1,0 +1,5 @@
+{
+  "name": "Image Describer for Nano Banana",
+  "description": "Upload an image and get a detailed description, perfect for use as a prompt for image generation models like Gemini (Nano Banana).",
+  "requestFramePermissions": []
+}
